@@ -111,4 +111,4 @@
 
 ## 專案下載
 
-完整專案檔案請至 [GitHub Releases](請替換成你的Releases網址) 下載。
+完整專案檔案請至 [GitHub Releases](https://github.com/yenchen0605/news-analysis-django/releases/download/v1.0.0/news_analysis_django.zip) 下載。
